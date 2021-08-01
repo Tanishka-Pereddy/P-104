@@ -1,0 +1,13 @@
+body {
+    background: rgb(171, 132, 214);
+    color: rgb(3, 0, 5);
+}
+#Camera {
+    border:2px dashed aliceblue;
+   width : 350px;
+   height : 300px;  
+}
+.heading {
+    width: 80%;
+    font-size : 23px;
+}
